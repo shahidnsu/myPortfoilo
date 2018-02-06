@@ -27,17 +27,14 @@ html,body{
     text-decoration-color:  rgb(236, 187, 88);
     
 }
+
 .heading h1 {
     color:#494C4E;
     letter-spacing: 0.2rem;
     margin-top: 12%;
 }
 
-.heading h2 {
-    color:#494C4E;
-    letter-spacing: 0.2rem;
-    
-}
+
 .img-header{
     margin-top: 7%;
 }
