@@ -1,0 +1,92 @@
+html,body{
+    padding: 20px;
+    font-family: 'Crimson Text', serif;
+}
+.bg-light {
+    background-color: #FFFFFF!important;
+}
+
+
+
+.navbar-light .navbar-brand {
+    color: #494C4E;
+    font-size: 1.5rem;
+    border: 5px solid black;
+    letter-spacing: 0.1em;
+    padding: 7px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #494C4E;
+    font-size: 1.3rem;
+}
+
+.nav-link:hover {  
+    text-decoration-style:solid;
+    text-decoration: underline;
+    text-decoration-color:  rgb(236, 187, 88);
+    
+}
+.heading h1 {
+    color:#494C4E;
+    letter-spacing: 0.2rem;
+    margin-top: 12%;
+}
+.img-header{
+    margin-top: 7%;
+}
+.about-header p{
+    font-size: 1.3rem;
+    letter-spacing: 0.1rem;
+    font-weight: 400;
+    color:#7F8183;
+}
+.about-header h5{
+    color:#7F8183;
+    font-weight: 700;
+    letter-spacing: 0.1rem;
+     
+}
+.about-header h5 {
+    color:#d28f0a;
+}
+.about-header em {
+    color:#d28f0a;
+}
+button {
+    margin-left: 45%;
+    margin-top: 3%;
+    
+}
+.btn-secondary {
+    
+    background-color: #FFFFFF;
+    border-color: #d28f0a;
+    padding-top: 22px;
+    padding-bottom: 20px;
+    padding-left: 22px;
+    padding-right: 20px;
+    font-size: 1.3rem;
+    font-style: italic;
+}
+.btn-secondary:hover {
+    background-color: #FFFFFF;
+    border-color:#d28f0a;
+
+}
+button a{
+    
+        color:#404345;
+        text-decoration: none;
+        background-color: transparent;
+        -webkit-text-decoration-skip: objects;
+    
+}
+button a:hover{
+    color:#404345;
+    text-decoration: none;
+}
+.footerP{
+    font-size:1.3rem;
+    letter-spacing:0.2rem;
+    color:#7F8183;
