@@ -32,6 +32,12 @@ html,body{
     letter-spacing: 0.2rem;
     margin-top: 12%;
 }
+
+.heading h2 {
+    color:#494C4E;
+    letter-spacing: 0.2rem;
+    
+}
 .img-header{
     margin-top: 7%;
 }
@@ -54,7 +60,7 @@ html,body{
     color:#d28f0a;
 }
 button {
-    margin-left: 45%;
+    margin-left: 40%;
     margin-top: 3%;
     
 }
